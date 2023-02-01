@@ -1,0 +1,16 @@
+.component-container {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+}
+.component-icon {
+  width: 24px;
+  height: 24px;
+  justify-content: space-between;
+}
+.component-icon2 {
+  width: 24px;
+  height: 24px;
+  justify-content: space-between;
+}
